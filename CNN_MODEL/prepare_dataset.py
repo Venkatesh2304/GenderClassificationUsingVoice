@@ -15,8 +15,8 @@ from tqdm import tqdm
 import torchaudio.transforms as T
 
 
-data_path = "dataset_40000/dataset/"
-gender_file = "dataset_40000/voice.tsv"
+data_path = "dataset/dataset/"
+gender_file = "dataset/voice.tsv"
    
 # ----------------------------
 # Sound Dataset
